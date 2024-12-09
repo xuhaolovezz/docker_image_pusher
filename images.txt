@@ -7,3 +7,4 @@ xhofe/alist:latest
 apachepulsar/pulsar:3.3.2
 apachepulsar/pulsar-manager:v0.3.0
 gcr.io/k8s-minikube/kicbase:v0.0.45@sha256:81df288595202a317b1a4dc2506ca2e4ed5f22373c19a441b88cfbf4b9867c85
+kindest/node:v1.31.2
