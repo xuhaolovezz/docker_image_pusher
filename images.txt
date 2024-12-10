@@ -1,1 +1,1 @@
-openjdk:8u302-jdk
+alpine:latest
