@@ -1,10 +1,5 @@
-nginx
-#支持私库1
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-apachepulsar/pulsar:3.3.2
-apachepulsar/pulsar-manager:v0.3.0
-gcr.io/k8s-minikube/kicbase:v0.0.45@sha256:81df288595202a317b1a4dc2506ca2e4ed5f22373c19a441b88cfbf4b9867c85
-kindest/node:v1.31.2
+docker.io/kubernetesui/dashboard-api:1.10.1
+docker.io/kubernetesui/dashboard-auth:1.2.2
+kong:3.6
+docker.io/kubernetesui/dashboard-web:1.6.0
+docker.io/kubernetesui/dashboard-metrics-scraper:1.2.1
