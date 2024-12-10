@@ -1,1 +1,1 @@
-openjdk:8u312@sha256:be8d393bf05323d837ba4a4ec5d50eb06f16cdc5ec184921e5d32c72cbc640b7
+openjdk:8u302-jdk
