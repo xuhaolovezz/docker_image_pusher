@@ -1,1 +1,4 @@
-eipwork/kuboard:v3
+apachepulsar/pulsar-all:2.10.6
+prom/prometheus:v2.17.2
+streamnative/apache-pulsar-grafana-dashboard-k8s:0.0.16
+apachepulsar/pulsar-manager:v0.3.0
