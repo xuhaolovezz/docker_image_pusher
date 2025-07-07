@@ -1,2 +1,1 @@
-elasticsearch:7.16.2
-mysql:5.7
+apachepulsar/pulsar:3.0.12
